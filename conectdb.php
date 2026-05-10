@@ -1,9 +1,9 @@
 <?php
 
-$host     = "db.afnrulomqqfxskwkojld.supabase.co";
+$host     = "https://afnrulomqqfxskwkojld.supabase.co";
 $dbname   = "postgres";
 $user     = "postgres";
-$password = "jusu_slaptazodis"; // pakeiskite savo slaptažodžiu
+$password = "jkmgintare123"; // pakeiskite savo slaptažodžiu
 $port     = "5432";
 
 try {
