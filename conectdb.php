@@ -3,7 +3,7 @@
 $host     = "https://afnrulomqqfxskwkojld.supabase.co";
 $dbname   = "postgres";
 $user     = "postgres";
-$password = "jkmgintare123"; // pakeiskite savo slaptažodžiu
+$password = ""; // pakeiskite savo slaptažodžiu
 $port     = "5432";
 
 try {
